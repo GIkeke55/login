@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 16px;
+    background-color:#cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: initial;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    display: block;
+}
+.container{
+    display: flex;
+}
+.left-side{
+    width: 50%;
+}
+.rigth-side{
+    width: 50%;
+}
